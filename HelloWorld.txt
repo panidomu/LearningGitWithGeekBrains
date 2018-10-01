@@ -1,3 +1,4 @@
 1. Create this file: HelloWorld.txt
 2. Make changes
 3. Add new string here (only in MASTER !)
+4. Add this new string too (only in MASTER !): **********
