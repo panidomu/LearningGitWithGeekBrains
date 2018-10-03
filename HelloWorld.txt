@@ -5,3 +5,4 @@
 *************************************
 5. New branch: feature/hello-advanced
 6. Add new string  (only in feature/hello-advanced !) /\/\/\/\/\/\/\/\/\
+7. qwerty
