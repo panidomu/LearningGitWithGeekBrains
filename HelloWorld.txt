@@ -4,3 +4,4 @@
 4. Add this new string too (only in MASTER !): **********
 *************************************
 5. New branch: feature/hello-advanced
+6. Add new string  (only in feature/hello-advanced !) /\/\/\/\/\/\/\/\/\
