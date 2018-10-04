@@ -7,3 +7,6 @@
 6. Add new string  (only in feature/hello-advanced !) /\/\/\/\/\/\/\/\/\
 7. qwerty
 
+
+8. Make changes after ignore
+
